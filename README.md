@@ -1,1 +1,1 @@
-HERO-PAGE
+Hero Page
